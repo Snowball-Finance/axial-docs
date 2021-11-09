@@ -1,3 +1,8 @@
+---
+cover: .gitbook/assets/banner_cut (1).png
+coverY: 0
+---
+
 # Welcome to Axial
 
 Axial is a [_**Decentralized Finance (DeFi)**_](https://snowballs.gitbook.io/snowball-docs/resources/defi-glossary#decentralized-finance-defi) protocol built on the Avalanche blockchain. It is a fully decentralized and self-contained application, and is the centerpiece for liquidity of value-pegged assets on the ecosystem. It was launched on November of 2021, and is one of many projects originating from the [**Snowball DAO**](https://snowball.network).
@@ -33,6 +38,7 @@ All this amazing functionality is abstracted out for our users. **This means tha
 Providing liquidity on Axial will net you the transaction fees from users trading in any given pool, in addition to any AXIAL token incentives allocated to that pool. Here are some aspects of providing liquidity on Axial to keep in mind:
 
 * **You may deposit or withdraw any combination of tokens you'd like.** This means that in a pool of 4 tokens, for example, you can choose to deposit all 4 in equal amounts, or even just 1 token.
+* **Depositing or withdrawing a token that helps balance the pool gives you a discount.** The opposite is true for transactions that further imbalance the pool.
 * **You will receive a receipt token when depositing liquidity.** This means that if you deposit some tokens into the AS4D vault, for example, you will receive AS4D tokens in return. These tokens represent your underlying deposit, and are used to withdraw your funds at any time. Keep those safe!
 
 ## Official Links

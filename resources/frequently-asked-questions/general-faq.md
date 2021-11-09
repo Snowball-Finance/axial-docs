@@ -15,4 +15,4 @@ The initial distribution of AXIAL is as follows:
 
 ### Who is behind Axial?
 
-Axial was launched by the team behind Snowball, which can be seen [here](https://snowballs.gitbook.io/snowball-docs/resources/our-team). This team will help Axial mature until it has a team of its own, independent from its original DAO.
+Axial was launched by the team behind Snowball, which can be seen [**here**](https://snowballs.gitbook.io/snowball-docs/resources/our-team). This team will help Axial mature until it has a team of its own, independent from its original DAO.

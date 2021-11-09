@@ -35,7 +35,7 @@ Digital wallets are the easiest to access for those that plan on making many tra
 ![Snowball's Supported Wallets](<../../.gitbook/assets/image (17).png>)
 
 {% hint style="info" %}
-We have a guide on how to setup MetaMask for use on the Avalanche Chain [**here**](../../resources/guides/funding-your-wallet.md).
+We have a guide on how to setup MetaMask for use on the Avalanche Chain [**here**](broken-reference).
 {% endhint %}
 
 ## Transactions

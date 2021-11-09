@@ -12,9 +12,13 @@ Chain: Avalanche C-Chain
 
 ## Token Distribution
 
+![](../.gitbook/assets/AxialDistribution.png)
+
 ## Emission Schedule
 
 There is a total supply of 365 million AXIAL tokens. These tokens are currently being emitted as liquidity incentives in our various pools.
+
+![](../.gitbook/assets/AxialEmissionSchedule.png)
 
 ## Earning AXIAL
 
