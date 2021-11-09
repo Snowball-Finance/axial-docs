@@ -48,3 +48,4 @@
 * [Telegram](https://t.me/axialdefi)
 * [Twitter](https://twitter.com/AxialDeFi)
 * [GitHub](https://github.com/Snowball-Finance)
+* [Medium](https://medium.com/@AxialDeFi)

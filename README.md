@@ -41,7 +41,7 @@ Providing liquidity on Axial will net you the transaction fees from users tradin
 
 * **You may deposit or withdraw any combination of tokens you'd like.** This means that in a pool of 4 tokens, you can deposit all 4 in equal amounts, or just 1 at a time.
 * **Depositing or withdrawing a token that helps balance the pool gives you a discount.** The opposite is true for transactions that further imbalance the pool.
-* **You will receive a receipt token when depositing liquidity.** This means that if you deposit some tokens into the AS4D vault, for example, you will receive AS4D tokens in return. These tokens represent your underlying deposit, and are used to withdraw your funds at any time.&#x20;
+* **You will receive a receipt token when depositing liquidity.** This means that if you deposit some tokens into the AS4D vault, for example, you will receive AS4D tokens in return. These tokens represent your underlying deposit, and are used to withdraw your funds at any time.
 
 ## Official Links
 
@@ -50,6 +50,7 @@ Providing liquidity on Axial will net you the transaction fees from users tradin
 * [**Telegram**](https://t.me/axialdefi)
 * [**Twitter**](https://twitter.com/AxialDeFi)
 * [**Github**](https://github.com/Snowball-Finance)
+* [**Medium**](https://medium.com/@AxialDeFi)
 
 {% hint style="info" %}
 New to DeFi? Learn more about the space in our [**DeFi University**](snowball-defi-university/introduction.md), provided by the Snowball DAO!
