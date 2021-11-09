@@ -21,7 +21,7 @@ There is a total supply of 365 million AXIAL tokens. These tokens are currently 
 The following table shows an approximate schedule for the emissions of AXIAL tokens:
 
 | Time (Months) | AXIAL /second |
-| ------------- | ------------- |
+| :-----------: | :-----------: |
 | Launch        | 10            |
 | Month 1       | 8.72          |
 | Month 2       | 7.71          |
