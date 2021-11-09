@@ -1,6 +1,6 @@
 # AXIAL
 
-The AXIAL token is Axial's governance token, and 50% of its supply is used as incentives for those providing liquidity in our many liquidity pools.
+The AXIAL token is Axial's governance token. 50% of its supply is used as incentives for those providing liquidity in our liquidity pools.
 
 Ticker: AXIAL
 
@@ -12,7 +12,7 @@ Chain: Avalanche C-Chain
 
 ## Token Distribution
 
-![](../.gitbook/assets/AxialDistribution.png)
+![](<../.gitbook/assets/1\_2ykajQulskM3IozFtUZ90g (1).png>)
 
 ## Emission Schedule
 
@@ -24,7 +24,7 @@ There is a total supply of 365 million AXIAL tokens. These tokens are currently 
 
 AXIAL is earned by providing liquidity on Axial's many liquidity pools, as well as participating in governance through Snowball's staking of SNOB tokens.
 
-The AXIAL token can also be purchased on exchanges:
+The AXIAL token can also be purchased on the following exchanges:
 
 * [**Pangolin**](https://info.pangolin.exchange/#/token/0xcF8419A615c57511807236751c0AF38Db4ba3351)
 * [**Trader Joe**](https://analytics.traderjoexyz.com/tokens/0xcF8419A615c57511807236751c0AF38Db4ba3351)
