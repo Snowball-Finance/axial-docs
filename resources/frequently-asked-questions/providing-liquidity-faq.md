@@ -10,7 +10,7 @@ None. There are however incentives and disincentives to deposit or withdraw toke
 
 ### Do I need to deposit all the tokens listed in the liquidity pool?
 
-No, you can deposit any combination of tokens into any Axial pool. To keep the balance of the pool stable, we give incentives to anyone who deposits a token that has a lower supply in the pool, withdraws a token that has higher supply in the pool or vice versa.
+No, you can deposit any combination of tokens into any Axial pool. To keep the balance of the pool stable, we give incentives to anyone who deposits a token that has a lower supply in the pool or withdraws a token that has higher supply in the pool or vice versa.
 
 ### Why did I receive less tokens than I put into the pool?
 

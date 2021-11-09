@@ -2,7 +2,7 @@
 
 ### What is the maximum supply of the AXIAL token?
 
-The maximum supply of AXIAL is of 365 million. It will never exceed that amount.
+The maximum supply of AXIAL is 365 million. It will never exceed that amount.
 
 ### How is the AXIAL token being distributed?
 

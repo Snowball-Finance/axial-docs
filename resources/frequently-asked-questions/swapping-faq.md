@@ -2,9 +2,9 @@
 
 ### What are the fees to swap using Axial?
 
-All swaps through Axial liquidity pools have a 0.04% fee. 75% of these fees (0.03%) are shared amongst the pool's liquidity providers. The other 25% of the fees (0.01%) is sent to Axial's treasury.
+All swaps through Axial liquidity pools have a 0.04% fee. 75% of those fees (0.03%) are shared amongst the pool's liquidity providers. The other 25% of the fees (0.01%) is sent to Axial's treasury.
 
-### Why use Axial instead of any other exchange?
+### Why use Axial instead of another exchange?
 
 Most decentralized exchanges are modeled after Uniswap V2. They are excellent models for swapping most cryptocurrencies; however, they are not great for swapping stablecoins or other value-pegged assets. This is because the model allows for lots of slippage on the tokens being swapped.
 
