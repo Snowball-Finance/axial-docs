@@ -12,11 +12,6 @@
   * [General FAQ](resources/frequently-asked-questions/general-faq.md)
   * [Swapping FAQ](resources/frequently-asked-questions/swapping-faq.md)
   * [Providing Liquidity FAQ](resources/frequently-asked-questions/providing-liquidity-faq.md)
-* [Guides](resources/guides/README.md)
-  * [Funding Your Wallet](resources/guides/funding-your-wallet.md)
-  * [Swapping with Axial](resources/guides/swapping-with-axial.md)
-  * [Depositing into Axial](resources/guides/depositing-into-axial.md)
-  * [Manual Smart-Contract Interaction](resources/guides/manual-contract-interaction.md)
 * [Smart Contracts](resources/smart-contracts.md)
 * [Security](resources/security.md)
 * [Our Team](resources/our-team.md)
@@ -49,6 +44,7 @@
 ## Links
 
 * [Website](https://app.axial.exchange)
-* [Discord](https://discord.gg/XjMQpnhPR6)
+* [Discord](https://discord.gg/NPsxMhcCrS)
+* [Telegram](https://t.me/axialdefi)
 * [Twitter](https://twitter.com/AxialDeFi)
 * [GitHub](https://github.com/Snowball-Finance)

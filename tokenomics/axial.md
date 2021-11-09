@@ -1,61 +1,31 @@
 # AXIAL
 
-The SNOB token is Snowball’s governance token. It can be locked for xSNOB to vote on proposals, vote on weekly SNOB allocations, earn a portion of protocol revenue, and earn boosted SNOB rewards.
+The AXIAL token is Axial's governance token, and 50% of its supply is used as incentives for those providing liquidity in our many liquidity pools.
 
-Ticker: SNOB
+Ticker: AXIAL
 
-Max Supply: 18,000,000
+Max Supply: 365,000,000
 
-Token Address: [0xC38f41A296A4493Ff429F1238e030924A1542e50](https://snowtrace.io/token/0xC38f41A296A4493Ff429F1238e030924A1542e50)
+Token Address: [0xcF8419A615c57511807236751c0AF38Db4ba3351](https://snowtrace.io/token/0xcF8419A615c57511807236751c0AF38Db4ba3351)
 
 Chain: Avalanche C-Chain
 
-## **Token Distribution**
+## Token Distribution
 
-![](../.gitbook/assets/SnowballAllocationChart.png)
+## Emission Schedule
 
-## **Emission Schedule**
+There is a total supply of 365 million AXIAL tokens. These tokens are currently being emitted as liquidity incentives in our various pools.
 
-There is a total supply of 18 million SNOB tokens. These tokens are currently being emitted through Snowball's products as incentive rewards.
+## Earning AXIAL
 
-The following table shows an updated representation of SNOB emissions based on governance proposal 12, which made SNOB emissions decline gradually over time.
+AXIAL is earned by providing liquidity on Axial's many liquidity pools, as well as participating in governance through Snowball's staking of SNOB tokens.
 
-|    Block   | SNOB /block |
-| :--------: | :---------: |
-|  3,065,000 |     0.5     |
-|  3,515,000 |     0.47    |
-|  3,965,000 |     0.44    |
-|  4,415,000 |     0.41    |
-|  4,865,000 |     0.38    |
-|  5,315,000 |     0.35    |
-|  5,765,000 |     0.32    |
-|  6,215,000 |     0.29    |
-|  6,665,000 |     0.26    |
-|  7,115,000 |     0.23    |
-|  7,565,000 |     0.2     |
-|  8,015,000 |     0.17    |
-|  8,465,000 |     0.14    |
-|  8,915,000 |     0.11    |
-|  9,365,000 |     0.08    |
-|  9,815,000 |     0.05    |
-| 10,265,000 |     0.02    |
-| 10,715,000 |      0      |
+The AXIAL token can also be purchased on exchanges:
 
-**Total SNOB Emissions:** 1,989,000 SNOB
+* [**Pangolin**](https://info.pangolin.exchange/#/token/0xcF8419A615c57511807236751c0AF38Db4ba3351)
+* [**Trader Joe**](https://analytics.traderjoexyz.com/tokens/0xcF8419A615c57511807236751c0AF38Db4ba3351)
 
-## **How to earn SNOB**
-
-SNOB is earned by using Snowball’s products. When you deposit into a product on Snowball, you receive a receipt token that can be deposited again to earn SNOB.
-
-The amount of SNOB you get for depositing in each product varies weekly and is determined by Snowball’s gauges. View this week’s SNOB distribution on the [**xSNOB**](https://app.snowball.network/staking) page of our website.
-
-SNOB can also be purchased on exchanges. [**Pangolin**](https://info.pangolin.exchange/#/token/0xc38f41a296a4493ff429f1238e030924a1542e50) and [**Trader Joe**](https://analytics.traderjoexyz.com/tokens/0xc38f41a296a4493ff429f1238e030924a1542e50) both support the SNOB token.
-
-## **SNOB Resources**
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
+## AXIAL Resources
 
 {% content-ref url="../resources/frequently-asked-questions/general-faq.md" %}
 [general-faq.md](../resources/frequently-asked-questions/general-faq.md)
