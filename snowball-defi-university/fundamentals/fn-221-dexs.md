@@ -26,7 +26,7 @@ Decentralized exchanges are an alternative to centralized exchanges such as Bina
 
 ## DEXs
 
-The Avalanche Chain's main DEXs are [**Trader Joe**](https://www.traderjoexyz.com/#/trade) and [**Pangolin**](https://app.pangolin.exchange/#/swap), since they currently have the most liquidity and trading volume in the ecosystem. There are however, many other projects that provide swapping services. As a user, you are looking for platforms with a lot of liquidity, low [_**slippage**_](https://snowballs.gitbook.io/snowball-docs/resources/defi-glossary#slippage) and low fees per swap.
+The Avalanche Chain's main DEXs are [**Trader Joe**](https://www.traderjoexyz.com/#/trade) and [**Pangolin**](https://app.pangolin.exchange/#/swap), since they currently have the most liquidity and trading volume in the ecosystem. There are however, many other projects that provide swapping services. As a user, you are looking for platforms with a lot of liquidity, low [_**slippage**_](resources/defi-glossary#slippage) and low fees per swap.
 
 {% hint style="info" %}
 Snowball has our very StableVault product, which allows for swapping stablecoins with very low slippage and even lower fees. Check it out [**here**](https://app.snowball.network/s4d-vault) or learn about it [**here**](https://snowballs.gitbook.io/snowball-docs/products/stablevault).
