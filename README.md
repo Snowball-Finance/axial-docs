@@ -19,6 +19,14 @@ Axial is a [_**Decentralized Finance (DeFi)**_](https://snowballs.gitbook.io/sno
 Looking for a quick answer to a simple question regarding any of these features? Check our FAQs [**here**](resources/frequently-asked-questions/).
 {% endhint %}
 
+## Liquidity Pools
+
+Currently, the following pools are available to swap or provide liquidity in:
+
+**AS4D Pool** - TUSD, USDC.e, DAI.e, USDT.e
+
+**AC4D Pool** - TSD, MIM, FRAX, DAI.e
+
 ## Why use Axial over other DEXs?
 
 If you're looking for liquidity for most assets, there are amazing DEXs on Avalanche such as Trader Joe or Pangolin. Axial is focusing on providing liquidity for value-pegged assets, which means we can provide the following benefits to our users:
