@@ -1,8 +1,3 @@
----
-cover: .gitbook/assets/banner_cut (1).png
-coverY: 0
----
-
 # Welcome to Axial
 
 ![](.gitbook/assets/banner\_cut.png)
@@ -26,6 +21,8 @@ Currently, the following pools are available to swap or provide liquidity in:
 **AS4D Pool** - TUSD, USDC.e, DAI.e, USDT.e
 
 **AC4D Pool** - TSD, MIM, FRAX, DAI.e
+
+Remember that depositing liquidity into a pool nets you swap fees - but to earn swap fees and AXIAL rewards you have to deposit your liquidity into a pool and then deposit your LP tokens into a farm!
 
 ## Why use Axial over other DEXs?
 

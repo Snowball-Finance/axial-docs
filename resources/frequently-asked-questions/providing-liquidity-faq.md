@@ -17,3 +17,7 @@ No, you can deposit any combination of tokens into any Axial pool. To keep the b
 If you deposit a token that is high in supply, relative to other tokens in the pool, you will pay a small premium for depositing. Similarly, if you deposit a token with a low supply, relative to the other tokens in the pool, you will be given a discount.
 
 For example, if there are 300 DAI.e, 500 USDC.e, 400 TUSD and 700 USDT.e in the AS4D pool, you will need to pay a premium to deposit USDT.e and you will be given a reward to deposit DAI.e. The exact same mechanism is also applicable when withdrawing from the pool. Given the above example, you would pay a fee to withdraw in DAI.e and be rewarded for withdrawing in USDT.e.
+
+### How do I earn AXIAL rewards?
+
+In order to earn AXIAL rewards, after depositing your liquidity you must deposit your resulting LP tokens into a farm. You will continue to earn rewards from swap fees, but also receive AXIAL tokens on top of that.
