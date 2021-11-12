@@ -16,6 +16,7 @@
 * [Security](resources/security.md)
 * [Our Team](resources/our-team.md)
 * [DeFi Glossary](resources/defi-glossary.md)
+* [Brand Assets](resources/brand-assets.md)
 
 ## Snowball DeFi University
 
