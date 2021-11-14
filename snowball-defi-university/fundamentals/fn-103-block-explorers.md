@@ -26,7 +26,7 @@ The Avalanche C-Chain has three main block explorers:
 
 * **Native Avax Explorer** - [**https://cchain.explorer.avax.network/**](https://cchain.explorer.avax.network)
 * **AvaScan** - [**https://avascan.info/blockchain/c/txs**](https://avascan.info/blockchain/c/txs)
-* **SnowTrace** - [**https://snowtrace.io/**](https://snowtrace.io)****
+* **SnowTrace** - [**https://snowtrace.io/**](https://snowtrace.io)
 
 {% hint style="info" %}
 All smart contract / DeFi-related transactions take place on Avalanche's C-Chain (Contract Chain). The links above are for this chain. The X-Chain and P-Chain have their own explorers.
