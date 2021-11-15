@@ -18,6 +18,7 @@
 | `AS4D Swap`                | [0x2a716c4933A20Cd8B9f9D9C39Ae7196A85c24228](https://snowtrace.io/address/0x2a716c4933A20Cd8B9f9D9C39Ae7196A85c24228) |
 | `AC4D LP Token`            | [0x4da067E13974A4d32D342d86fBBbE4fb0f95f382](https://snowtrace.io/address/0x4da067E13974A4d32D342d86fBBbE4fb0f95f382) |
 | `AC4D Swap`                | [0x8c3c1C6F971C01481150CA7942bD2bbB9Bc27bC7](https://snowtrace.io/address/0x8c3c1C6F971C01481150CA7942bD2bbB9Bc27bC7) |
+| `AVAX-AXIAL JLP Token`     | [0x5305a6c4da88391f4a9045bf2ed57f4bf0cf4f62](https://snowtrace.io/address/0x5305a6c4da88391f4a9045bf2ed57f4bf0cf4f62) |
 
 ## Snowball Contracts
 
