@@ -5,3 +5,7 @@ These guides offer step-by-step instructions to interact with Axial. Have any qu
 {% content-ref url="swapping-with-axial.md" %}
 [swapping-with-axial.md](swapping-with-axial.md)
 {% endcontent-ref %}
+
+{% content-ref url="providing-liquidity.md" %}
+[providing-liquidity.md](providing-liquidity.md)
+{% endcontent-ref %}

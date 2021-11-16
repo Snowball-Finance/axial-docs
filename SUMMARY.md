@@ -14,6 +14,7 @@
   * [Providing Liquidity FAQ](resources/frequently-asked-questions/providing-liquidity-faq.md)
 * [Guides](resources/guides/README.md)
   * [Swapping with Axial](resources/guides/swapping-with-axial.md)
+  * [Providing Liquidity](resources/guides/providing-liquidity.md)
 * [Smart Contracts](resources/smart-contracts.md)
 * [Security](resources/security.md)
 * [Our Team](resources/our-team.md)

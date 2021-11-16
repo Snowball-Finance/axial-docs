@@ -34,7 +34,7 @@ All smart contract / DeFi-related transactions take place on Avalanche's C-Chain
 
 All explorers provide the same type of information, but have differing visuals and sometimes have more or less information regarding any specific smart contract. SnowTrace is the newest addition to the Avalanche ecosystem, made by the same creators of EtherScan and it's other chain alternatives (BscScan, PolygonScan and FtmScan).
 
-![Avalanche C-Chain Native Block Explorer](<../../.gitbook/assets/image (5).png>)
+![Avalanche C-Chain Native Block Explorer](<../../.gitbook/assets/image (5) (1).png>)
 
 Other blockchains also have their own block explorers. The most popular ones are linked below:
 
@@ -48,13 +48,13 @@ Other blockchains also have their own block explorers. The most popular ones are
 
 The primary and probably most important utility of a block explorer is the ability to see your transaction history. Let's take a look at a random wallet address on Avalanche for example:
 
-![Random Wallet on Avalanche](<../../.gitbook/assets/image (10) (1).png>)
+![Random Wallet on Avalanche](<../../.gitbook/assets/image (10) (1) (1).png>)
 
 If we search for this wallet address on the block explorer, it gives us a lot of information regarding its balance and transaction history. It seems to have been trading some AVAX for DAI.e lately. If you're wondering how it's possible to access anyone's transaction history through a block explorer, it's because everything on a blockchain is public. This is why blockchains are often referred to as public ledgers.
 
 Other than viewing wallet addresses, we can also see even more information regarding smart contracts on a block explorer. Let's take a look at one of Snowball's main contracts used for distributing SNOB (our token) rewards for example:
 
-![Snowball's GaugeProxyV2 Contract on Avalanche](<../../.gitbook/assets/image (7).png>)
+![Snowball's GaugeProxyV2 Contract on Avalanche](<../../.gitbook/assets/image (7) (1).png>)
 
 We can see the entire source code for any smart contract on the block explorer unless the contract has not been verified yet. This allows for a lot more transparency and makes it easier for legitimate projects to stand out amongst the crowd of smart contracts by using well-written, safe and robust code.
 
