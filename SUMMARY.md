@@ -12,6 +12,8 @@
   * [General FAQ](resources/frequently-asked-questions/general-faq.md)
   * [Swapping FAQ](resources/frequently-asked-questions/swapping-faq.md)
   * [Providing Liquidity FAQ](resources/frequently-asked-questions/providing-liquidity-faq.md)
+* [Guides](resources/guides/README.md)
+  * [Swapping with Axial](resources/guides/swapping-with-axial.md)
 * [Smart Contracts](resources/smart-contracts.md)
 * [Security](resources/security.md)
 * [Our Team](resources/our-team.md)
