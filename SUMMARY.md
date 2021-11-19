@@ -40,6 +40,7 @@
   * [YF 424 - LP Math](snowball-defi-university/yield-farming/yf-424-lp-math.md)
 * [Governance](snowball-defi-university/governance/README.md)
   * [GV 141 - DAOs](snowball-defi-university/governance/gv-141-daos.md)
+  * [GV 242 - Voting Mechanisms](snowball-defi-university/governance/gv-242-voting-mechanisms.md)
 * [Extracurricular](snowball-defi-university/extracurricular/README.md)
   * [EX 151 - Spotting Scams](snowball-defi-university/extracurricular/ex-151-spotting-scams.md)
   * [EX 271 - NFTs](snowball-defi-university/extracurricular/ex-271-nfts.md)
