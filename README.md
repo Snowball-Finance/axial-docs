@@ -6,7 +6,7 @@ Axial is a [_**Decentralized Finance (DeFi)**_](resources/defi-glossary.md#decen
 
 ## Core Features
 
-**Swapping** - Swap between [_**stablecoins**_](resources/defi-glossary.md#stablecoin) alongide other bridged, wrapped or synthetic assets/derivatives on Axial, with significantly reduced fees compared to traditional DEXs.
+**Swapping** - Swap between [_**stablecoins**_](resources/defi-glossary.md#stablecoin) alongside other bridged, wrapped or synthetic assets/derivatives on Axial, with significantly reduced fees compared to traditional DEXs.
 
 **Providing Liquidity** - Provide [_**liquidity**_](resources/defi-glossary.md#liquidity) to the protocol and earn risk-averse returns through others utilizing your liquidity to perform trades, as well as AXIAL token incentives.
 
