@@ -2,13 +2,13 @@
 
 ![](.gitbook/assets/banner\_cut.png)
 
-Axial is a [_**Decentralized Finance (DeFi)**_](resources/defi-glossary#decentralized-finance-defi) protocol built on the Avalanche blockchain. It is a fully decentralized and self-contained application, and is the centerpiece for liquidity of [_**value-pegged assets**_](resources/defi-glossary#pegged-tokens) on the ecosystem. It was launched on November of 2021, and is one of many projects originating from the [**Snowball DAO**](https://snowball.network).
+Axial is a [_**Decentralized Finance (DeFi)**_](resources/defi-glossary.md#decentralized-finance-defi) protocol built on the Avalanche blockchain. It is the fully decentralized centerpiece for liquidity of [_**value-pegged assets**_](resources/defi-glossary.md#pegged-tokens) on the ecosystem. It was launched on November of 2021, and is one of many projects originating from the [**Snowball DAO**](https://snowball.network).
 
 ## Core Features
 
-**Swapping** - Swap between [_**stablecoins**_](resources/defi-glossary#stablecoin) alongide other bridged, wrapped or synthetic assets/derivatives on Axial, with significantly reduced fees compared to traditional DEXs.
+**Swapping** - Swap between [_**stablecoins**_](resources/defi-glossary.md#stablecoin) alongide other bridged, wrapped or synthetic assets/derivatives on Axial, with significantly reduced fees compared to traditional DEXs.
 
-**Providing Liquidity** - Provide [_**liquidity**_](resources/defi-glossary#liquidity) to the protocol and earn risk-averse returns through others utilizing your liquidity to perform trades, as well as AXIAL token incentives.
+**Providing Liquidity** - Provide [_**liquidity**_](resources/defi-glossary.md#liquidity) to the protocol and earn risk-averse returns through others utilizing your liquidity to perform trades, as well as AXIAL token incentives.
 
 {% hint style="info" %}
 Looking for a quick answer to a simple question regarding any of these features? Check our FAQs [**here**](resources/frequently-asked-questions/).
@@ -22,14 +22,14 @@ Currently, the following pools are available to swap or provide liquidity in:
 
 **AC4D Pool** - TSD, MIM, FRAX, DAI.e
 
-Remember that depositing liquidity into a [_**liquidity pool**_](resources/defi-glossary#liquidity-pool) nets you swap fees - but to earn swap fees and AXIAL rewards you have to deposit your liquidity into a pool and then deposit your LP tokens into a farm!
+Remember that depositing liquidity into a [_**liquidity pool**_](resources/defi-glossary.md#liquidity-pool) nets you swap fees - but to earn swap fees and AXIAL rewards you have to deposit your liquidity into a pool and then deposit your LP tokens into a farm!
 
 ## Why use Axial over other DEXs?
 
 If you're looking for liquidity for most assets, there are amazing DEXs on Avalanche such as Trader Joe or Pangolin. Axial is focusing on providing liquidity for value-pegged assets, which means we can provide the following benefits to our users:
 
 * Dramatically lower swap fees for these value-pegged assets.
-* Much lower [_**slippage**_](resources/defi-glossary#slippage) on high-volume trades.
+* Much lower [_**slippage**_](resources/defi-glossary.md#slippage) on high-volume trades.
 * Little to no impermanent loss when providing liquidity.
 
 ## Swapping with Axial
