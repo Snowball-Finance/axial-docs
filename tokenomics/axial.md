@@ -16,49 +16,69 @@ Chain: Avalanche C-Chain
 
 ## Emission Schedule
 
-There is a total supply of 365 million AXIAL tokens. These tokens are currently being emitted as liquidity incentives in our various pools.
+There is a total max supply of 365 million AXIAL tokens. These tokens are currently being emitted on a per-second basis, through the following schedule:
 
-The following table shows an approximate schedule for the emissions of AXIAL tokens:
+{% hint style="info" %}
+Keep in mind this schedule can be changed by Axial's governance structures, which are currently under development. Want to be a part of Axial's future to determine things like this? Join the community through our [**Discord**](https://discord.gg/NPsxMhcCrS) server and make your voice heard.
+{% endhint %}
 
+{% tabs %}
+{% tab title="Schedule Table" %}
 | Time (Months) | AXIAL /second |
 | :-----------: | :-----------: |
-| Launch        | 10            |
-| Month 1       | 8.72          |
-| Month 2       | 7.71          |
-| Month 3       | 6.35          |
-| Month 4       | 5.59          |
-| Month 5       | 5.08          |
-| Month 6       | 4.73          |
-| Month 7       | 4.45          |
-| Month 8       | 4.24          |
-| Month 9       | 4.06          |
-| Month 10      | 3.91          |
-| Month 11      | 3.79          |
-| Month 12      | 3.68          |
-| Month 13      | 3.58          |
-| Month 14      | 3.5           |
-| Month 15      | 3.42          |
-| Month 16      | 3.36          |
-| Month 17      | 3.29          |
-| Month 18      | 3.24          |
-| Month 19      | 3.19          |
-| Month 20      | 3.14          |
-| Month 21      | 3.1           |
-| Month 22      | 3.05          |
-| Month 23      | 3.02          |
-| Month 24      | 2.98          |
-| Month 25      | 2.95          |
-| Month 26      | 2.92          |
-| Month 27      | 2.89          |
-| Month 28      | 2.86          |
-| Month 29      | 2.83          |
-| Month 30      | 2.81          |
-| Month 31      | 2.78          |
-| Month 32      | 2.76          |
-| Month 33      | 2.25          |
-| Month 34      | 2             |
-| Month 35      | 0.75          |
-| Month 36      | 0             |
+|     Launch    |       10      |
+|    Month 1    |      8.72     |
+|    Month 2    |      7.71     |
+|    Month 3    |      6.35     |
+|    Month 4    |      5.59     |
+|    Month 5    |      5.08     |
+|    Month 6    |      4.73     |
+|    Month 7    |      4.45     |
+|    Month 8    |      4.24     |
+|    Month 9    |      4.06     |
+|    Month 10   |      3.91     |
+|    Month 11   |      3.79     |
+|    Month 12   |      3.68     |
+|    Month 13   |      3.58     |
+|    Month 14   |      3.5      |
+|    Month 15   |      3.42     |
+|    Month 16   |      3.36     |
+|    Month 17   |      3.29     |
+|    Month 18   |      3.24     |
+|    Month 19   |      3.19     |
+|    Month 20   |      3.14     |
+|    Month 21   |      3.1      |
+|    Month 22   |      3.05     |
+|    Month 23   |      3.02     |
+|    Month 24   |      2.98     |
+|    Month 25   |      2.95     |
+|    Month 26   |      2.92     |
+|    Month 27   |      2.89     |
+|    Month 28   |      2.86     |
+|    Month 29   |      2.83     |
+|    Month 30   |      2.81     |
+|    Month 31   |      2.78     |
+|    Month 32   |      2.76     |
+|    Month 33   |      2.25     |
+|    Month 34   |       2       |
+|    Month 35   |      0.75     |
+|    Month 36   |       0       |
+
+
+{% endtab %}
+
+{% tab title="Schedule Chart" %}
+![](<../.gitbook/assets/AXIAL Distribution Per Second.png>)
+{% endtab %}
+
+{% tab title="Supply" %}
+![](<../.gitbook/assets/AXIAL Supply Projection.png>)
+{% endtab %}
+
+{% tab title="Detailed Supply" %}
+![](<../.gitbook/assets/AXIAL Detailed Supply Projection.png>)
+{% endtab %}
+{% endtabs %}
 
 ## Earning AXIAL
 
