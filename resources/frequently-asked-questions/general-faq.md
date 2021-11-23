@@ -16,3 +16,7 @@ The initial distribution of AXIAL is as follows:
 ### Who is behind Axial?
 
 Axial was launched by the team behind Snowball, which can be seen [**here**](https://snowballs.gitbook.io/snowball-docs/resources/our-team). This team will help Axial mature until it has a team of its own, independent from its original DAO.
+
+### What can I do with AXIAL tokens?
+
+At the moment you can provide liquidity with your AXIAL and use it for any snapshot votes that are taking place. That being said, governance structures are being discussed and developed, and will introduce staking and more robust voting mechanisms. Want to take part in these discussions? Feel free to join our [**Discord**](https://discord.gg/NPsxMhcCrS).
