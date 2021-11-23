@@ -66,8 +66,8 @@ AXIAL is earned by providing liquidity on Axial's many liquidity pools, as well 
 
 The AXIAL token can also be purchased on the following exchanges:
 
-* [**Pangolin**](https://info.pangolin.exchange/#/token/0xcF8419A615c57511807236751c0AF38Db4ba3351)
 * [**Trader Joe**](https://analytics.traderjoexyz.com/tokens/0xcF8419A615c57511807236751c0AF38Db4ba3351)
+* [**Pangolin**](https://info.pangolin.exchange/#/token/0xcF8419A615c57511807236751c0AF38Db4ba3351)
 
 ## AXIAL Resources
 
