@@ -29,6 +29,7 @@
   * [FN 102 - Wallets](snowball-defi-university/fundamentals/fn-102-wallets.md)
   * [FN 103 - Block Explorers](snowball-defi-university/fundamentals/fn-103-block-explorers.md)
   * [FN 104 - Tokens](snowball-defi-university/fundamentals/fn-104-tokens.md)
+  * [FN 205 - Bridges](snowball-defi-university/fundamentals/fn-205-bridges.md)
   * [FN 221 - DEXs](snowball-defi-university/fundamentals/fn-221-dexs.md)
   * [FN 231 - Stablecoins](snowball-defi-university/fundamentals/fn-231-stablecoins.md)
 * [Yield Farming](snowball-defi-university/yield-farming/README.md)
