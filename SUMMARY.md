@@ -45,6 +45,7 @@
 * [Extracurricular](snowball-defi-university/extracurricular/README.md)
   * [EX 151 - Spotting Scams](snowball-defi-university/extracurricular/ex-151-spotting-scams.md)
   * [EX 271 - NFTs](snowball-defi-university/extracurricular/ex-271-nfts.md)
+  * [EX 281 - DeFi Composability](snowball-defi-university/extracurricular/ex-281-defi-composability.md)
   * [EX 325 - Single-Asset vs LP Strategies](snowball-defi-university/extracurricular/ex-325-single-asset-vs-lp-strategies.md)
 
 ## Links
