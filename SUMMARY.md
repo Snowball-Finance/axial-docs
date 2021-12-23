@@ -32,6 +32,7 @@
   * [FN 205 - Bridges](snowball-defi-university/fundamentals/fn-205-bridges.md)
   * [FN 221 - DEXs](snowball-defi-university/fundamentals/fn-221-dexs.md)
   * [FN 231 - Stablecoins](snowball-defi-university/fundamentals/fn-231-stablecoins.md)
+  * [FN 106 - Gas Fees](snowball-defi-university/fundamentals/fn-106-gas-fees.md)
 * [Yield Farming](snowball-defi-university/yield-farming/README.md)
   * [YF 111 - Lending Markets](snowball-defi-university/yield-farming/yf-111-lending-markets.md)
   * [YF 122 - Liquidity Pools](snowball-defi-university/yield-farming/yf-122-liquidity-pools.md)

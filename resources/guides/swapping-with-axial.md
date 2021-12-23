@@ -12,7 +12,7 @@ description: >-
 
 2.) Select the token you want to swap.
 
-![](<../../.gitbook/assets/image (8) (1).png>)
+![](<../../.gitbook/assets/image (8) (1) (1).png>)
 
 3.) Select the token you want to swap for.
 
