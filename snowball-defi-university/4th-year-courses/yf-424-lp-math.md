@@ -8,12 +8,12 @@ The math around liquidity pools can be a bit confusing, but nonetheless very ins
 
 #### Suggested Prior Reading:
 
-{% content-ref url="yf-122-liquidity-pools.md" %}
-[yf-122-liquidity-pools.md](yf-122-liquidity-pools.md)
+{% content-ref url="../1st-year-courses/yf-122-liquidity-pools.md" %}
+[yf-122-liquidity-pools.md](../1st-year-courses/yf-122-liquidity-pools.md)
 {% endcontent-ref %}
 
-{% content-ref url="yf-323-impermanent-loss.md" %}
-[yf-323-impermanent-loss.md](yf-323-impermanent-loss.md)
+{% content-ref url="../3rd-year-courses/yf-323-impermanent-loss.md" %}
+[yf-323-impermanent-loss.md](../3rd-year-courses/yf-323-impermanent-loss.md)
 {% endcontent-ref %}
 
 ## Introduction
