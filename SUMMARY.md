@@ -1,27 +1,20 @@
 # Table of contents
 
-* [Welcome to Axial](README.md)
+## 👋 Welcome
 
-## Tokenomics
+* [Introduction](README.md)
 
-* [AXIAL](tokenomics/axial.md)
+## 🗳 Governance
 
-## Resources
+* [AXIAL](governance/axial.md)
 
-* [Frequently Asked Questions](resources/frequently-asked-questions/README.md)
-  * [General FAQ](resources/frequently-asked-questions/general-faq.md)
-  * [Swapping FAQ](resources/frequently-asked-questions/swapping-faq.md)
-  * [Providing Liquidity FAQ](resources/frequently-asked-questions/providing-liquidity-faq.md)
-* [Guides](resources/guides/README.md)
-  * [Swapping with Axial](resources/guides/swapping-with-axial.md)
-  * [Providing Liquidity](resources/guides/providing-liquidity.md)
-* [Smart Contracts](resources/smart-contracts.md)
-* [Security](resources/security.md)
-* [Our Team](resources/our-team.md)
-* [DeFi Glossary](resources/defi-glossary.md)
-* [Brand Assets](resources/brand-assets.md)
+## ❓ FAQ
 
-## Snowball DeFi University
+* [General FAQ](faq/general-faq.md)
+* [Swapping FAQ](faq/swapping-faq.md)
+* [Providing Liquidity FAQ](faq/providing-liquidity-faq.md)
+
+## 🎓 Snowball DeFi University
 
 * [Introduction](snowball-defi-university/introduction.md)
 * [Fundamentals](snowball-defi-university/fundamentals/README.md)
@@ -49,11 +42,27 @@
   * [EX 281 - DeFi Composability](snowball-defi-university/extracurricular/ex-281-defi-composability.md)
   * [EX 325 - Single-Asset vs LP Strategies](snowball-defi-university/extracurricular/ex-325-single-asset-vs-lp-strategies.md)
 
+## 🗃 Resources
+
+* [Our Team](resources/our-team.md)
+* [Brand Assets](resources/brand-assets.md)
+* [Guides](resources/guides/README.md)
+  * [Swapping with Axial](resources/guides/swapping-with-axial.md)
+  * [Providing Liquidity](resources/guides/providing-liquidity.md)
+* [DeFi Glossary](resources/defi-glossary.md)
+
+## 💻 Smart Contracts
+
+* [Axial Contracts](smart-contracts/axial-contracts.md)
+* [Pool Contracts](smart-contracts/pool-contracts.md)
+* [Audits](smart-contracts/audits.md)
+* [Multisigs](smart-contracts/multisigs.md)
+
 ## Links
 
 * [Website](https://app.axial.exchange)
+* [GitHub](https://github.com/Snowball-Finance)
+* [Twitter](https://twitter.com/AxialDeFi)
 * [Discord](https://discord.gg/NPsxMhcCrS)
 * [Telegram](https://t.me/axialdefi)
-* [Twitter](https://twitter.com/AxialDeFi)
-* [GitHub](https://github.com/Snowball-Finance)
 * [Medium](https://medium.com/@AxialDeFi)

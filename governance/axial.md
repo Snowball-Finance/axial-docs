@@ -2,13 +2,13 @@
 
 The AXIAL token is Axial's governance token. 50% of its supply is used as incentives for those providing liquidity in our liquidity pools.
 
-Ticker: AXIAL
+**Ticker:** AXIAL
 
-Max Supply: 365,000,000
+**Max Supply:** 365,000,000
 
-Token Address: [0xcF8419A615c57511807236751c0AF38Db4ba3351](https://snowtrace.io/token/0xcF8419A615c57511807236751c0AF38Db4ba3351)
+**Token Address:** [0xcF8419A615c57511807236751c0AF38Db4ba3351](https://snowtrace.io/token/0xcF8419A615c57511807236751c0AF38Db4ba3351)
 
-Chain: Avalanche C-Chain
+**Chain:** Avalanche C-Chain
 
 ## Token Distribution
 
@@ -63,8 +63,6 @@ Keep in mind this schedule can be changed by Axial's governance structures, whic
 | Month 34      | 2             |
 | Month 35      | 0.75          |
 | Month 36      | 0             |
-
-
 {% endtab %}
 
 {% tab title="Schedule Chart" %}
@@ -91,10 +89,10 @@ The AXIAL token can also be purchased on the following exchanges:
 
 ## AXIAL Resources
 
-{% content-ref url="../resources/frequently-asked-questions/general-faq.md" %}
-[general-faq.md](../resources/frequently-asked-questions/general-faq.md)
+{% content-ref url="../faq/general-faq.md" %}
+[general-faq.md](../faq/general-faq.md)
 {% endcontent-ref %}
 
-{% content-ref url="../resources/smart-contracts.md" %}
-[smart-contracts.md](../resources/smart-contracts.md)
+{% content-ref url="../smart-contracts/axial-contracts.md" %}
+[axial-contracts.md](../smart-contracts/axial-contracts.md)
 {% endcontent-ref %}

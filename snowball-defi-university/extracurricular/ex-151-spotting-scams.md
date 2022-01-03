@@ -52,7 +52,7 @@ An example of the first type would be a token with the symbol USDC, that isn't a
 
 The other kind is more common, however, and is especially prevalent in blockchains such as the Binance Smart Chain. This is where a scammer sends a scam token, usually with the name of a website, to thousands of wallets. Visiting the site will likely start some form of social engineering scam, or attempting to sell the token will instead trigger a malicious transaction that will try and steal your other funds in your wallet.
 
-An example of such tokens can be found [here](https://bscscan.com/address/0x0df62d2cd80591798721ddc93001afe868c367ff). Very often block explorers are smart about these types of scams and have warnings on their pages:
+An example of such tokens can be found [**here**](https://bscscan.com/address/0x0df62d2cd80591798721ddc93001afe868c367ff). Very often block explorers are smart about these types of scams and have warnings on their pages:
 
 ![Warning on bscscan.com (BSC's block explorer)](<../../.gitbook/assets/image (15) (1).png>)
 
@@ -70,7 +70,7 @@ In practice, this usually means a project markets themselves for a couple weeks 
 To avoid these sort of scams, there are many strategies:
 
 1. Use protocols that have been audited by a credible source, or is a direct fork of an audited project.
-2. Look at their documentation and/or Github repositories. If they are lacking one or the other, or don't have their contract addresses and code open-sourced, don't use that protocol.
+2. Look at their documentation and/or GitHub repositories. If they are lacking one or the other, or don't have their contract addresses and code open-sourced, don't use that protocol.
 3. Check the contract you are interacting with on a block explorer. If it is verified, you can look at its code to confirm it is not different that what the team indicates.
 4. By checking the contract on a block explorer, you can also see where the deposited funds are coming from. If 90%+ is from a single wallet, that is a huge red flag.
 5. In general, have common sense. If a protocol seems too good to be true, or its value comes from their own token instead of any inherent value of the protocol itself, make sure you know exactly what you are getting into before investing any money.

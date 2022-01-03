@@ -41,7 +41,7 @@ Snowball provides auto-compounding strategies for liquidity pools on popular dec
 There are also Snowball strategies on single-asset deposits, usually through lending markets. Alongside the usual 2-3 harvests per day, the single-asset strategies also involve folding, where you repeatedly lend and borrow the same asset in order to make the most of the incentives provided in any given platform. These usually greatly multiply earnings compared to simply depositing into a lending market.
 
 {% hint style="info" %}
-To learn more about Snowball's compounding strategies, check out our [**Compounding page**](https://snowballs.gitbook.io/snowball-docs/products/compounding) or our FAQ [**here**](https://snowballs.gitbook.io/snowball-docs/resources/frequently-asked-questions/compounding-faq).
+To learn more about Snowball's compounding strategies, check out our [**Compounding page**](https://docs.snowball.network/our-products/compounding) or our FAQ [**here**](https://docs.snowball.network/faq/compounding-faq).
 {% endhint %}
 
 ## Closing Thoughts

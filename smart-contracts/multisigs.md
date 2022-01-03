@@ -1,18 +1,12 @@
-# Security
+# Multisigs
 
-## Smart Contract Audits
+To further increase the decentralization of Axial, its treasury is fully controlled by a multisig wallet. This contract is the following:
 
-Axial originated as a fork of Saddle Finance, which has been thoroughly audited. Their audits can be found [**here**](https://docs.saddle.finance/smart-contract-audit).
-
-## Multisig
-
-To further increase the decentralization of Axial, it's treasury is fully controlled by a multisig wallet. This is the following:
-
-### Treasury
+### Treasury Multisig
 
 This contract is owned and controlled by Snowball's council and on-chain governance. As the Axial protocol matures, it is likely that through governance proposals it becomes more independent from Snowball. This will likely mean disconnecting itself from Snowball in favor of its own governance structures.
 
-**Treasury Address:** [0x4980AD7cCB304f7d3c5053Aa1131eD1EDaf48809](https://snowtrace.io/address/0x4980AD7cCB304f7d3c5053Aa1131eD1EDaf48809)
+**Treasury Address:** [**0x4980AD7cCB304f7d3c5053Aa1131eD1EDaf48809**](https://snowtrace.io/address/0x4980AD7cCB304f7d3c5053Aa1131eD1EDaf48809)****
 
 | Signer         | Address                                                                                                               |
 | -------------- | --------------------------------------------------------------------------------------------------------------------- |

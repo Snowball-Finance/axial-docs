@@ -1,4 +1,4 @@
-# Welcome to Axial
+# Introduction
 
 ![](.gitbook/assets/banner\_cut.png)
 
@@ -10,10 +10,6 @@ Axial is a [_**Decentralized Finance (DeFi)**_](resources/defi-glossary.md#decen
 
 **Providing Liquidity** - Provide [_**liquidity**_](resources/defi-glossary.md#liquidity) to the protocol and earn risk-averse returns through others utilizing your liquidity to perform trades, as well as AXIAL token incentives.
 
-{% hint style="info" %}
-Looking for a quick answer to a simple question regarding any of these features? Check our FAQs [**here**](resources/frequently-asked-questions/).
-{% endhint %}
-
 ## Liquidity Pools
 
 Currently, the following pools are available to swap or provide liquidity in:
@@ -22,7 +18,13 @@ Currently, the following pools are available to swap or provide liquidity in:
 
 **AC4D Pool** - TSD, MIM, FRAX, DAI.e
 
-Remember that depositing liquidity into a [_**liquidity pool**_](resources/defi-glossary.md#liquidity-pool) nets you swap fees - but to earn swap fees and AXIAL rewards you have to deposit your liquidity into a pool and then deposit your LP tokens into a farm!
+**AM3D Pool** - MIM, USDC.e, DAI.e
+
+**AA3D Pool** - AVAI, MIM, USDC.e
+
+**USDC-AM3D Metapool** - USDC, AM3D
+
+Remember that depositing liquidity into a [_**liquidity pool**_](resources/defi-glossary.md#liquidity-pool) nets you swap fees - but to earn extra rewards on top of that you should then deposit your LP tokens into one of our farms!
 
 ## Why use Axial over other DEXs?
 
@@ -44,7 +46,7 @@ All this amazing functionality is abstracted out for our users. **This means tha
 
 Providing liquidity on Axial will net you the transaction fees from users trading in any given pool, in addition to any AXIAL token incentives allocated to that pool. Here are some aspects of providing liquidity on Axial to keep in mind:
 
-* **You may deposit or withdraw any combination of tokens you'd like.** This means that in a pool of 4 tokens, you can deposit all 4 in equal amounts, or just 1 at a time.
+* **You may deposit or withdraw any combination of tokens you'd like.** This means that in a pool of 4 tokens, you can deposit all 4 in equal amounts, or just 1 at any time.
 * **Depositing or withdrawing a token that helps balance the pool gives you a discount.** The opposite is true for transactions that further imbalance the pool.
 * **You will receive a receipt token when depositing liquidity.** This means that if you deposit some tokens into the AS4D vault, for example, you will receive AS4D tokens in return. These tokens represent your underlying deposit, and are used to withdraw your funds at any time.
 
@@ -54,7 +56,7 @@ Providing liquidity on Axial will net you the transaction fees from users tradin
 * [**Discord**](https://discord.gg/NPsxMhcCrS)
 * [**Telegram**](https://t.me/axialdefi)
 * [**Twitter**](https://twitter.com/AxialDeFi)
-* [**Github**](https://github.com/Snowball-Finance)
+* [**GitHub**](https://github.com/Snowball-Finance)
 * [**Medium**](https://medium.com/@AxialDeFi)
 
 {% hint style="info" %}
