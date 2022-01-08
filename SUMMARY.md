@@ -34,6 +34,7 @@
   * [GV 242 - Voting Mechanisms](snowball-defi-university/2nd-year-courses/gv-242-voting-mechanisms.md)
   * [YF 261 - Auto-Compounding](snowball-defi-university/2nd-year-courses/yf-261-auto-compounding.md)
   * [EX 271 - NFTs](snowball-defi-university/2nd-year-courses/ex-271-nfts.md)
+  * [EX 272 - The Metaverse](snowball-defi-university/2nd-year-courses/ex-272-the-metaverse.md)
   * [EX 281 - DeFi Composability](snowball-defi-university/2nd-year-courses/ex-281-defi-composability.md)
 * [3rd Year Courses](snowball-defi-university/3rd-year-courses/README.md)
   * [YF 312 - Folding](snowball-defi-university/3rd-year-courses/yf-312-folding.md)
