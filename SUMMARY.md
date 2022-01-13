@@ -66,4 +66,4 @@
 * [Twitter](https://twitter.com/AxialDeFi)
 * [Discord](https://discord.gg/NPsxMhcCrS)
 * [Telegram](https://t.me/axialdefi)
-* [Medium](https://medium.com/@AxialDeFi)
+* [Medium](https://medium.com/axialexchange)
