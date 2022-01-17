@@ -29,6 +29,7 @@
   * [EX 151 - Spotting Scams](snowball-defi-university/1st-year-courses/ex-151-spotting-scams.md)
 * [2nd Year Courses](snowball-defi-university/2nd-year-courses/README.md)
   * [FN 205 - Bridges](snowball-defi-university/2nd-year-courses/fn-205-bridges.md)
+  * [FN 207 - Apps vs Dapps](snowball-defi-university/2nd-year-courses/fn-207-apps-vs-dapps.md)
   * [FN 221 - DEXs](snowball-defi-university/2nd-year-courses/fn-221-dexs.md)
   * [FN 231 - Stablecoins](snowball-defi-university/2nd-year-courses/fn-231-stablecoins.md)
   * [GV 242 - Voting Mechanisms](snowball-defi-university/2nd-year-courses/gv-242-voting-mechanisms.md)
