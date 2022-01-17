@@ -41,7 +41,7 @@ At this stage, you will have deposited liquidity into a pool, and will be gainin
 
 6.) Select the amount of LP tokens you'd like to deposit. You can click on your balance above in order to automatically select all your tokens.
 
-![](<../../.gitbook/assets/image (11).png>)
+![](<../../.gitbook/assets/image (11) (1).png>)
 
 7.) Click on **Deposit**. You will be asked to sign an approval transaction (if applicable) and the deposit transaction itself.
 
