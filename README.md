@@ -1,6 +1,6 @@
 # Introduction
 
-![](<.gitbook/assets/Axial Banner.jfif>)
+![](<.gitbook/assets/Axial Banner (1).jfif>)
 
 Axial is a [_**Decentralized Finance (DeFi)**_](resources/defi-glossary.md#decentralized-finance-defi) protocol built on the Avalanche blockchain. It is the fully decentralized centerpiece for liquidity of [_**value-pegged assets**_](resources/defi-glossary.md#pegged-tokens) on the ecosystem. It was launched on November of 2021, and is one of many projects originating from the [**Snowball DAO**](https://snowball.network).
 
