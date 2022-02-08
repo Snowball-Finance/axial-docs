@@ -63,8 +63,8 @@
 ## Links
 
 * [Website](https://app.axial.exchange)
-* [GitHub](https://github.com/Snowball-Finance)
-* [Twitter](https://twitter.com/AxialDeFi)
 * [Discord](https://discord.gg/NPsxMhcCrS)
+* [Twitter](https://twitter.com/AxialDeFi)
 * [Telegram](https://t.me/axialdefi)
 * [Medium](https://medium.com/axialexchange)
+* [GitHub](https://github.com/Snowball-Finance)
