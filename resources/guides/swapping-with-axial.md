@@ -8,7 +8,7 @@ description: >-
 
 1.) Connect your wallet by clicking on 'Connect Wallet' on the top right of the page, and selecting your wallet provider.
 
-![](<../../.gitbook/assets/image (9).png>)
+![](<../../.gitbook/assets/image (9) (1).png>)
 
 2.) Select the token you want to swap.
 
