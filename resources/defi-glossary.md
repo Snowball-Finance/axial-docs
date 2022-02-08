@@ -42,6 +42,10 @@ Folding refers to a strategy of borrowing an asset from a lending platform in or
 
 Gas refers to the fee required to successfully conduct a transaction or execute a contract on a blockchain.
 
+### Liquid Staking
+
+Liquid staking refers to a form of staking/depositing where funds aren't entirely locked. By depositing funds, a user receives another asset of equivalent value and functionality to their original stake. This increases the ecosystem's velocity of money, since value is not locked to any particular contract.
+
 ### Liquidity
 
 Liquidity refers to the ease with which an asset can be converted into cash or traded into another asset. When you supply liquidity on a Decentralized Exchange (DEX), you are making it easier for people to trade the assets you supply.
