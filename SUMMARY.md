@@ -3,6 +3,7 @@
 ## 👋 Welcome
 
 * [Introduction](README.md)
+* [Roadmap](welcome/roadmap.md)
 
 ## 🗳 Governance
 
