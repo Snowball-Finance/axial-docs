@@ -51,8 +51,10 @@
 * [Our Team](resources/our-team.md)
 * [Brand Assets](resources/brand-assets.md)
 * [Guides](resources/guides/README.md)
+  * [Setting Up MetaMask](resources/guides/setting-up-metamask.md)
   * [Swapping with Axial](resources/guides/swapping-with-axial.md)
   * [Providing Liquidity](resources/guides/providing-liquidity.md)
+  * [MetaMask Security Measures](resources/guides/metamask-security-measures.md)
 * [DeFi Glossary](resources/defi-glossary.md)
 
 ## 💻 Smart Contracts

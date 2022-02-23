@@ -8,19 +8,19 @@ description: >-
 
 1.) Connect your wallet by clicking on 'Connect Wallet' on the top right of the page, and selecting your wallet provider.
 
-![](<../../.gitbook/assets/image (9) (1).png>)
+![](<../../.gitbook/assets/image (9) (1) (1).png>)
 
 2.) Select the token you want to swap.
 
-![](<../../.gitbook/assets/image (8) (1) (1).png>)
+![](<../../.gitbook/assets/image (8) (1) (1) (1).png>)
 
 3.) Select the token you want to swap for.
 
-![](<../../.gitbook/assets/image (10) (1).png>)
+![](<../../.gitbook/assets/image (10) (1) (1).png>)
 
 4.) Enter the amount of tokens you want to swap.
 
-![](<../../.gitbook/assets/image (16) (1).png>)
+![](<../../.gitbook/assets/image (16) (1) (1).png>)
 
 {% hint style="info" %}
 At this stage, Axial will display to you the rate being offered, alongside the estimated price impact of your swap based on fees, slippage, etc.

@@ -9,11 +9,11 @@ description: >-
 
 1.) Click on **Deposit** next to your pool of choice.
 
-![](<../../.gitbook/assets/image (7).png>)
+![](<../../.gitbook/assets/image (7) (1).png>)
 
 2.) Select the amount of each token you would like to add liquidity for. You can deposit any number of tokens you'd like (you do not need to deposit all 4 tokens, for example).
 
-![](<../../.gitbook/assets/image (10).png>)
+![](<../../.gitbook/assets/image (10) (1).png>)
 
 {% hint style="info" %}
 Keep in mind the **Bonus** displayed near the bottom! If you add liquidity for a token that is low in supply in the pool, you'll get a bonus for depositing. If you deposit a token that already has excess supply in the pool, however, your deposit will be negatively impacted.
@@ -33,11 +33,11 @@ At this stage, you will have deposited liquidity into a pool, and will be gainin
 
 4.) Click on **Rewards** at the top of the page.
 
-![](<../../.gitbook/assets/image (16).png>)
+![](<../../.gitbook/assets/image (16) (1).png>)
 
 5.) Click on **Deposit** next to the pool you've added liquidity for.
 
-![](<../../.gitbook/assets/image (8) (1).png>)
+![](<../../.gitbook/assets/image (8) (1) (1).png>)
 
 6.) Select the amount of LP tokens you'd like to deposit. You can click on your balance above in order to automatically select all your tokens.
 
