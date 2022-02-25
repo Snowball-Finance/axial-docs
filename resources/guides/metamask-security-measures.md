@@ -6,11 +6,11 @@ This guide will cover how to keep your MetaMask wallet safer than ever through r
 
 1\) Head to [**https://snowtrace.io/**](https://snowtrace.io) and click on **More** > **Token Approvals**:
 
-![](<../../.gitbook/assets/image (10).png>)
+![](<../../.gitbook/assets/image (10) (1).png>)
 
 2\) Enter your wallet address.
 
-![](<../../.gitbook/assets/image (14).png>)
+![](<../../.gitbook/assets/image (14) (1).png>)
 
 3\) Use the **Connect to Web3** button to connect your wallet.
 
@@ -20,17 +20,17 @@ This guide will cover how to keep your MetaMask wallet safer than ever through r
 
 5\) Confirm the transaction to revoke any given approval:
 
-![Example MetaMask Transaction Confirmation](<../../.gitbook/assets/image (16).png>)
+![Example MetaMask Transaction Confirmation](<../../.gitbook/assets/image (16) (1).png>)
 
 ## Disconnecting From Unused Dapps
 
 1\) Select the three dots on the top right and click on **Connected Sites**.
 
-![](<../../.gitbook/assets/image (8).png>)
+![](<../../.gitbook/assets/image (8) (1).png>)
 
 2\) Click on the trash icon next to any dapps you no longer interact with, and confirm the disconnection:
 
-![](<../../.gitbook/assets/image (13).png>)
+![](<../../.gitbook/assets/image (13) (1).png>)
 
 ## Locking Your Wallet
 

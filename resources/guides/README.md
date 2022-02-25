@@ -17,3 +17,7 @@ These guides offer step-by-step instructions to interact with Axial. Have any qu
 {% content-ref url="metamask-security-measures.md" %}
 [metamask-security-measures.md](metamask-security-measures.md)
 {% endcontent-ref %}
+
+{% content-ref url="minting-tusd.md" %}
+[minting-tusd.md](minting-tusd.md)
+{% endcontent-ref %}
