@@ -21,3 +21,7 @@ These guides offer step-by-step instructions to interact with Axial. Have any qu
 {% content-ref url="minting-tusd.md" %}
 [minting-tusd.md](minting-tusd.md)
 {% endcontent-ref %}
+
+{% content-ref url="swapping-frax.md" %}
+[swapping-frax.md](swapping-frax.md)
+{% endcontent-ref %}

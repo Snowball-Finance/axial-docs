@@ -57,6 +57,7 @@
   * [Providing Liquidity](resources/guides/providing-liquidity.md)
   * [MetaMask Security Measures](resources/guides/metamask-security-measures.md)
   * [Minting TUSD](resources/guides/minting-tusd.md)
+  * [Swapping FRAX](resources/guides/swapping-frax.md)
 * [DeFi Glossary](resources/defi-glossary.md)
 
 ## 💻 Smart Contracts
