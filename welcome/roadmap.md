@@ -13,8 +13,8 @@
 
 * [ ] **Quad Rewards** - Our liquidity pools will be able to receive 4 different reward tokens.
 * [ ] **Swap Router** - Swapping between tokens from two entirely different pools will be possible.
-* [ ] **AXIAL Staking** - We will introduce sAXIAL, the staked version of the AXIAL token.
-* [ ] **On-Chain Governance** - By utilizing sAXIAL, we will conduct our governance on-chain.
+* [ ] **sAXIAL** - We will introduce sAXIAL, a staked version of the AXIAL token providing voting power to those committed to locking their tokens.
+* [ ] **veAXIAL** - We will introduce veAXIAL, a staked version of the AXIAL token providing boosted rewards from our liquidity pools.
 * [ ] **Updated User Interface** - Our UI will be completely refactored, for an even easier and more pleasant user experience as well as offering more information on-site.
 
 ![](../.gitbook/assets/Q2\_2022.png)
