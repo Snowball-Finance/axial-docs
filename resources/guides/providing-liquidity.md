@@ -1,10 +1,3 @@
----
-description: >-
-  This guide covers how to deposit liquidity into Axial's many pools. By
-  providing liquidity, you will be able to gain swap fees as well as any AXIAL
-  token incentives allocated to your pool.
----
-
 # Providing Liquidity
 
 This guide covers how to deposit liquidity into Axial's many pools. By providing liquidity, you will be able to gain swap fees as well as any AXIAL token incentives allocated to your pool.

@@ -1,9 +1,3 @@
----
-description: >-
-  This guide covers how to swap assets/tokens with Axial. This means trading one
-  token for another token by utilizing Axial's liquidity in its many pools.
----
-
 # Swapping with Axial
 
 This guide covers how to swap assets/tokens with Axial. This means trading one token for another token by utilizing Axial's liquidity in its many pools.
