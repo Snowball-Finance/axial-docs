@@ -60,5 +60,5 @@ Providing liquidity on Axial will net you the transaction fees from users tradin
 * [**Medium**](https://medium.com/@AxialDeFi)
 
 {% hint style="info" %}
-New to DeFi? Learn more about the space in our [**DeFi University**](snowball-defi-university/introduction.md), provided by the Snowball DAO!
+New to DeFi? Learn more about the space in our [**DeFi University**](broken-reference), provided by the Snowball DAO!
 {% endhint %}
