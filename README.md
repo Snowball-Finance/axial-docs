@@ -22,8 +22,6 @@ Currently, the following pools are available to swap or provide liquidity in:
 
 **AA3D Pool** - AVAI, MIM, USDC.e
 
-**USDC-AM3D Metapool** - USDC, AM3D
-
 Remember that depositing liquidity into a [_**liquidity pool**_](resources/defi-glossary.md#liquidity-pool) nets you swap fees - but to earn extra rewards on top of that you should then deposit your LP tokens into one of our farms!
 
 ## Why use Axial over other DEXs?
