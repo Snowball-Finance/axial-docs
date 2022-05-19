@@ -8,6 +8,8 @@
 ## 🗳 Governance
 
 * [AXIAL](governance/axial.md)
+* [sAXIAL](governance/saxial.md)
+* [veAXIAL](governance/veaxial.md)
 
 ## ❓ FAQ
 

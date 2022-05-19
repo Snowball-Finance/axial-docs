@@ -1,6 +1,6 @@
 # AXIAL
 
-The AXIAL token is Axial's governance token. 50% of its supply is used as incentives for those providing liquidity in our liquidity pools.
+The AXIAL token is Axial's governance token. 50% of its supply is used as incentives for those providing liquidity in our liquidity pools. It can be used to acquire [**sAXIAL**](saxial.md) or [**veAXIAL**](veaxial.md).
 
 **Ticker:** AXIAL
 
@@ -17,10 +17,6 @@ The AXIAL token is Axial's governance token. 50% of its supply is used as incent
 ## Emission Schedule
 
 There is a total max supply of 365 million AXIAL tokens. These tokens are currently being emitted on a per-second basis, through the following schedule:
-
-{% hint style="info" %}
-Keep in mind this schedule can be changed by Axial's governance structures, which are currently under development. Want to be a part of Axial's future to determine things like this? Join the community through our [**Discord**](https://discord.gg/NPsxMhcCrS) server and make your voice heard.
-{% endhint %}
 
 {% tabs %}
 {% tab title="Schedule Table" %}
@@ -88,6 +84,14 @@ The AXIAL token can also be purchased on the following exchanges:
 * [**Pangolin**](https://info.pangolin.exchange/#/token/0xcF8419A615c57511807236751c0AF38Db4ba3351)
 
 ## AXIAL Resources
+
+{% content-ref url="saxial.md" %}
+[saxial.md](saxial.md)
+{% endcontent-ref %}
+
+{% content-ref url="veaxial.md" %}
+[veaxial.md](veaxial.md)
+{% endcontent-ref %}
 
 {% content-ref url="../faq/general-faq.md" %}
 [general-faq.md](../faq/general-faq.md)
