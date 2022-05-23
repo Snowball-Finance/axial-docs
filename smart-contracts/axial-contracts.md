@@ -2,7 +2,7 @@
 
 | Role                    | Address                                                                                                               |
 | ----------------------- | --------------------------------------------------------------------------------------------------------------------- |
-| `Axial Token (AXIAL)`   | [0xcF8419A615c57511807236751c0AF38Db4ba3351](https://snowtrace.io/address/0xcF8419A615c57511807236751c0AF38Db4ba3351) |
+| `AXIAL Token`           | [0xcF8419A615c57511807236751c0AF38Db4ba3351](https://snowtrace.io/address/0xcF8419A615c57511807236751c0AF38Db4ba3351) |
 | `sAXIAL Token`          | [0xed7f93C8FD3B96B53c924F601B3948175D2820D8](https://snowtrace.io/address/0xed7f93C8FD3B96B53c924F601B3948175D2820D8) |
 | `veAXIAL Token`         | [0x3f563F7efc6dC55adFc1B64BC6Bd4bC5F394c4b2](https://snowtrace.io/address/0x3f563f7efc6dc55adfc1b64bc6bd4bc5f394c4b2) |
 | `Axial Treasury`        | [0x4980AD7cCB304f7d3c5053Aa1131eD1EDaf48809](https://snowtrace.io/address/0x4980AD7cCB304f7d3c5053Aa1131eD1EDaf48809) |
