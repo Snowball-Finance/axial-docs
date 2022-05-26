@@ -1,7 +1,5 @@
 # Axial Contracts
 
-## Mainnet Contracts
-
 | Role                    | Address                                                                                                               |
 | ----------------------- | --------------------------------------------------------------------------------------------------------------------- |
 | `AXIAL Token`           | [0xcF8419A615c57511807236751c0AF38Db4ba3351](https://snowtrace.io/address/0xcF8419A615c57511807236751c0AF38Db4ba3351) |
@@ -15,14 +13,3 @@
 | `Axial Swap Aggregator` | [0x05F2F176b491ec11555cbE45B99748F999E13933](https://snowtrace.io/address/0x05F2F176b491ec11555cbE45B99748F999E13933) |
 | `Axial Internal Router` | [0x08c28A3670f5821F6B2D763437816b67010f53D4](https://snowtrace.io/address/0x08c28A3670f5821F6B2D763437816b67010f53D4) |
 | `Axial External Router` | [0x547730f642913E50ad8B2Db2dE9F3479E8015BC1](https://snowtrace.io/address/0x547730f642913E50ad8B2Db2dE9F3479E8015BC1) |
-
-## Testnet Contracts
-
-| Role                | Address                                                                                                                       |
-| ------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| `AXIAL Token`       | [0x0708f10f657b16abe18954361e96a641b217648b](https://testnet.snowtrace.io/address/0x0708f10f657b16abe18954361e96a641b217648b) |
-| `sAXIAL Token`      | [0xb7819A8714fCa85239E4b881291819A79Aa703E4](https://testnet.snowtrace.io/address/0xb7819A8714fCa85239E4b881291819A79Aa703E4) |
-| `veAXIAL Token`     | [0x48d5e1A395F494f5a60C12E73179d71A9778Ce1f](https://testnet.snowtrace.io/address/0x48d5e1A395F494f5a60C12E73179d71A9778Ce1f) |
-| `Axial Governance`  | [0x4E14EA1CFbe4015f31C7F989f2e3a48FA6586097](https://testnet.snowtrace.io/address/0x4E14EA1CFbe4015f31C7F989f2e3a48FA6586097) |
-| `Axial GaugeProxy`  | [0xC78489C296033fBe0b80032510Ed12558Fe29469](https://testnet.snowtrace.io/address/0xC78489C296033fBe0b80032510Ed12558Fe29469) |
-| `Axial Swap Router` | [0xA3a41C59ffd2D4899be1931239f561247a32481D](https://testnet.snowtrace.io/address/0xA3a41C59ffd2D4899be1931239f561247a32481D) |
