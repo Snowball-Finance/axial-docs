@@ -20,9 +20,15 @@ Currently, the following pools are available to swap or provide liquidity in:
 
 **AM3D Pool** - MIM, USDC.e, DAI.e
 
-**AA3D Pool** - AVAI, MIM, USDC.e
+**SCALES Pool** - DAI.e, USDT.e, USDC.e, USDC
+
+**HERO Pool** - USDC, USDt, MIM, YUSD
 
 Remember that depositing liquidity into a [_**liquidity pool**_](resources/defi-glossary.md#liquidity-pool) nets you swap fees - but to earn extra rewards on top of that you should then deposit your LP tokens into one of our farms!
+
+Our liquidity pools can be found on our app [**here**](https://app.axial.exchange/liquidity).
+
+After depositing liquidity, check out our rewards page [**here**](https://app.axial.exchange/rewards).
 
 ## Why use Axial over other DEXs?
 

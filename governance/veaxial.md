@@ -27,3 +27,7 @@ For example, if you are supplying 5% of a pool's liquidity, and have 10% of veAX
 Your veAXIAL balance is determined by how many AXIAL tokens you have staked, and for how long you've had them staked for. Every second that your AXIAL tokens are staked, you acquire 1 veAXIAL for every AXIAL token you have staked.
 
 This means that if you stake 100 AXIAL tokens, you will gain 100 veAXIAL per second. Unstaking your AXIAL will mean resetting your veAXIAL balance to 0, but can be done at any time with no unstaking fees.
+
+{% hint style="success" %}
+Want to keep track of who is staking AXIAL? Check out a community-made leaderboards app [**here**](https://axial-leaderboards.netlify.app/)!
+{% endhint %}

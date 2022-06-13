@@ -4,7 +4,7 @@ This guide will cover how to keep your MetaMask wallet safer than ever through r
 
 ## Revoking Token Approvals
 
-1\) Head to [**https://snowtrace.io/**](https://snowtrace.io) and click on **More** > **Token Approvals**:
+1\) Head to [**https://snowtrace.io/**](https://snowtrace.io/) and click on **More** > **Token Approvals**:
 
 ![](<../../.gitbook/assets/image (10) (1).png>)
 

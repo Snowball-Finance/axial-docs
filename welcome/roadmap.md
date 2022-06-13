@@ -9,17 +9,17 @@
 * [x] **Partnerships** - We've partnered with other projects in the Avalanche ecosystem such as ParaSwap, OrcaDAO, Teddy and Frax Finance.
 * [x] **Metapools** - We launched our first metapool, linking native USDC to the AM3D pool.
 
-![](../.gitbook/assets/Q1\_2022.png)
+![](../.gitbook/assets/2022.png)
 
-* [ ] **Quad Rewards** - Our liquidity pools will be able to receive 4 different reward tokens.
-* [ ] **Swap Router** - Swapping between tokens from two entirely different pools will be possible.
-* [ ] **sAXIAL** - We will introduce sAXIAL, a staked version of the AXIAL token providing voting power to those committed to locking their tokens.
-* [ ] **veAXIAL** - We will introduce veAXIAL, a staked version of the AXIAL token providing boosted rewards from our liquidity pools.
-* [ ] **Updated User Interface** - Our UI will be completely refactored, for an even easier and more pleasant user experience as well as offering more information on-site.
+* [x] **Quad Rewards** - Our liquidity pools can now receive 4 different reward tokens.
+* [x] **Swap Router** - Swapping between tokens from two entirely different pools is possible.
+* [x] **sAXIAL** - We introduced [**sAXIAL**](../governance/saxial.md), a staked version of the AXIAL token providing voting power to those committed to locking their tokens.
+* [x] **veAXIAL** - We introduced [**veAXIAL**](../governance/veaxial.md), a staked version of the AXIAL token providing boosted rewards from our liquidity pools.
+* [x] **Updated User Interface** - Our UI was completely refactored, for an even easier and more pleasant user experience as well as offering more information on-site.
+* [ ] **Decentralized Rewards Allocations** - Anyone will be able to assign token rewards to any of our pools or metapools.
 
-![](../.gitbook/assets/Q2\_2022.png)
+![](../.gitbook/assets/Future.png)
 
 * [ ] **Liquidity Pools' Restructuring** - Our stablecoin liquidity pools will be restructured to be centered on one main liquidity pool containing the most liquid assets on Avalanche.
 * [ ] **Decentralized Pool Creation** - Anyone will be able to create metapools linked to our main liquidity pool.
-* [ ] **Decentralized Rewards Allocations** - Anyone will be able to assign token rewards to any of our pools or metapools.
 * [ ] **New Non-Stablecoin Liquidity Pools** - We will add liquidity pools for swapping non-stablecoin assets, such as wrapped assets, derivatives or synthetics.

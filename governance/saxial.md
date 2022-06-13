@@ -28,3 +28,7 @@ Your sAXIAL balance is determined by the amount of AXIAL you have locked, as wel
 To those familiar with Snowball's [**xSNOB**](https://docs.snowball.network/governance/xsnob) token, the sAXIAL functionality will seem familiar. The main difference is that instead of unlocking all your AXIAL at the end of your lock time, it is linearly unlocked as time passes.
 
 For example, if you lock 100 AXIAL tokens for 2 weeks, 50 AXIAL will have been unlocked after 1 week has passed. You can claim these at any time, re-add them to your lock, extend your lock, or just wait until the end of your lock period to claim all your tokens back. This system maintains the alignment of incentives between long-term thinking and voting power, while providing more flexibility to stakers.
+
+{% hint style="success" %}
+Want to keep track of who is staking AXIAL? Check out a community-made leaderboards app [**here**](https://axial-leaderboards.netlify.app/)!
+{% endhint %}
