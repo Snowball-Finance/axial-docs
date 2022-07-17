@@ -5,5 +5,5 @@ Axial's team includes much of the development, design, marketing and other staff
 As Axial matures, it will likely recruit its own developers to form a team separate from its creators from the Snowball DAO.
 
 {% hint style="info" %}
-Want to be a part of our team and contribute to the development of Axial? Reach out to us on [**Discord**](https://discord.gg/NPsxMhcCrS).
+Want to be a part of our team and contribute to the development of Axial? Reach out to us on [**Discord**](https://discord.gg/NPsxMhcCrS) or send an email to `jomari.peterson@gmail.com`
 {% endhint %}
