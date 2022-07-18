@@ -2,17 +2,18 @@
 
 ## LP Token Contracts
 
-| Role         | Address                                                                                                               |
-| ------------ | --------------------------------------------------------------------------------------------------------------------- |
-| `AS4D`       | [0x3a7387f8ba3ebffa4a0eccb1733e940ce2275d3f](https://snowtrace.io/address/0x3a7387f8ba3ebffa4a0eccb1733e940ce2275d3f) |
-| `AC4D`       | [0x4da067E13974A4d32D342d86fBBbE4fb0f95f382](https://snowtrace.io/address/0x4da067E13974A4d32D342d86fBBbE4fb0f95f382) |
-| `AM3D`       | [0xc161E4B11FaF62584EFCD2100cCB461A2DdE64D1](https://snowtrace.io/address/0xc161E4B11FaF62584EFCD2100cCB461A2DdE64D1) |
-| `AA3D`       | [0xaD556e7dc377d9089C6564f9E8d275f5EE4da22d](https://snowtrace.io/address/0xaD556e7dc377d9089C6564f9E8d275f5EE4da22d) |
-| `SCALES`     | [0x556FB44205549c115e83A58d91522B14340Fb8d3](https://snowtrace.io/address/0x556FB44205549c115e83A58d91522B14340Fb8d3) |
-| `HERO`       | [0x73fA690aE97CdE1426d144E5f7406895fEa715E4](https://snowtrace.io/address/0x73fA690aE97CdE1426d144E5f7406895fEa715E4) |
-| `HERCULES`   | [0x7aaFcDBF79e4434127929493324E9Ce91d80E4bB](https://snowtrace.io/address/0x7aaFcDBF79e4434127929493324E9Ce91d80E4bB) |
-| `PERSEUS`    | [0x993399efcfB1E13Baf0E7a03d37d61697030633C](https://snowtrace.io/address/0x993399efcfB1E13Baf0E7a03d37d61697030633C) |
-| `AVAX-AXIAL` | [0x5305a6c4da88391f4a9045bf2ed57f4bf0cf4f62](https://snowtrace.io/address/0x5305a6c4da88391f4a9045bf2ed57f4bf0cf4f62) |
+| Role                    | Address                                                                                                               |
+| ----------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| `AS4D`                  | [0x3a7387f8ba3ebffa4a0eccb1733e940ce2275d3f](https://snowtrace.io/address/0x3a7387f8ba3ebffa4a0eccb1733e940ce2275d3f) |
+| `AC4D`                  | [0x4da067E13974A4d32D342d86fBBbE4fb0f95f382](https://snowtrace.io/address/0x4da067E13974A4d32D342d86fBBbE4fb0f95f382) |
+| `AM3D`                  | [0xc161E4B11FaF62584EFCD2100cCB461A2DdE64D1](https://snowtrace.io/address/0xc161E4B11FaF62584EFCD2100cCB461A2DdE64D1) |
+| `AA3D`                  | [0xaD556e7dc377d9089C6564f9E8d275f5EE4da22d](https://snowtrace.io/address/0xaD556e7dc377d9089C6564f9E8d275f5EE4da22d) |
+| `SCALES`                | [0x556FB44205549c115e83A58d91522B14340Fb8d3](https://snowtrace.io/address/0x556FB44205549c115e83A58d91522B14340Fb8d3) |
+| `HERO`                  | [0x73fA690aE97CdE1426d144E5f7406895fEa715E4](https://snowtrace.io/address/0x73fA690aE97CdE1426d144E5f7406895fEa715E4) |
+| `HERCULES`              | [0x7aaFcDBF79e4434127929493324E9Ce91d80E4bB](https://snowtrace.io/address/0x7aaFcDBF79e4434127929493324E9Ce91d80E4bB) |
+| `PERSEUS`               | [0x993399efcfB1E13Baf0E7a03d37d61697030633C](https://snowtrace.io/address/0x993399efcfB1E13Baf0E7a03d37d61697030633C) |
+| `Pangolin AVAX-AXIAL`   | [0x53d4bF164c53547b4278A0352C292162C154AfE5](https://snowtrace.io/address/0x53d4bf164c53547b4278a0352c292162c154afe5) |
+| `Trader Joe AVAX-AXIAL` | [0x5305a6c4da88391f4a9045bf2ed57f4bf0cf4f62](https://snowtrace.io/address/0x5305a6c4da88391f4a9045bf2ed57f4bf0cf4f62) |
 
 ## Swap Contracts
 
