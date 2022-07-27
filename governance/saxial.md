@@ -8,10 +8,13 @@ The sAXIAL token is how voting power is acquired in our DAO. This means that hav
 
 * Voting on governance proposals.
 * Submitting new governance proposals.
+* Allocating AXIAL rewards.
 
 To vote on any ongoing governance proposals, head to our [**governance page**](https://app.axial.exchange/governance). There you can vote in favor, or against any proposal you feel strongly about.
 
 In order to submit a new governance proposal to the DAO, a minimum of 200,000 sAXIAL is needed. This amount is not subtracted from your balance in any way, but you may only have one proposal active at any given time.
+
+Through your sAXIAL, you may also vote on your preferred allocation of AXIAL rewards to the protocol's many pools. You can do so [**here**](https://app.axial.exchange/governance/allocations), by choosing one or many pools you would like to see these rewards distributed to.
 
 ## sAXIAL Mechanisms
 
